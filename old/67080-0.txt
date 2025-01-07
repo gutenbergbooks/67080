@@ -9,7 +9,8 @@ www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
 using this eBook.
 
-Title: Voyage dans le nord du Brésil fait durant les années 1613 et 1614
+Title: Voyage dans le nord du Brésil fait durant les années 1613 et
+       1614
 
 Author: Yves  d'Évreux
 
@@ -25,7 +26,7 @@ Produced by: Jean-Adrien Brothier, Laurent Vogel and the Online
              The Internet Archive)
 
 *** START OF THE PROJECT GUTENBERG EBOOK VOYAGE DANS LE NORD DU
-BRÉSIL FAIT DURANT LES ANNÉES 1613 ET 1614 ***
+BRéSIL FAIT DURANT LES ANNéES 1613 ET 1614 ***
 
 
 
@@ -16113,8 +16114,8 @@ ont été indiqués entre signes égale =comme ceci=.
 
 
 
-*** END OF THE PROJECT GUTENBERG EBOOK VOYAGE DANS LE NORD DU BRÉSIL
-FAIT DURANT LES ANNÉES 1613 ET 1614 ***
+*** END OF THE PROJECT GUTENBERG EBOOK VOYAGE DANS LE NORD DU BRéSIL
+FAIT DURANT LES ANNéES 1613 ET 1614 ***
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
